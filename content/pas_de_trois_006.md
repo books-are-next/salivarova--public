@@ -2,7 +2,13 @@
 contentType: prose
 ---
 
-_Bože, jak tanečnice milují sladkosti!_
+>   
+
+>   
+
+>   
+
+> Bože, jak tanečnice milují sladkosti!
 
 Ester vběhla zadním vchodem do divadla a brala schody po dvou. Ještě měla tři minuty čas shodit kabát a šaty, opatrně stáhnout drahé silonky a vklouznout do trikotu, který včera ve spěchu hodila pod židli. Ještě byl zpocený a Ester se ušklíbla. Ale co, stejně nás zase bude honit do umdlení, večer si ho přeperu. Dnes neměla rande, nebude muset pospíchat, aby vyběhla z divadla první, aby unikla zvědavým očím a naskočila do Petrovy modré oktávie za rohem. Dnes byl opět trénink od půl deváté, utíkala chodbou a po cestě si spínala rozevláté vlasy do drdůlku na temeni. Holky už stály u tyče a rozcvičovaly se. Přiřadila se k nim, zadýchaná, podařilo se jí proklouznout nepozorovaně, paní profesorka Šimková se právě domlouvala s korepetitorem a stála zády ke dveřím. Rychle začala cvičit, propínala nárty, protahovala zádové svaly, ukláněla se hloub a hloub do stran a tělo měla bolavé. Sálem projel hlas, ječivý a přísný a nastala čtyřhodinová drezúra s krátkou pauzou na napití, na relaxaci namáhaných svalů, cigaretu anebo trysk na záchod.
 
@@ -28,10 +34,10 @@ A znovu raz a dva a tři a vlevo, raz a dva a tři a vpravo, nemohla se d
 
 Stála s Helgou a s Karlou na scéně za staženou oponou, dole v díře (ano, v díře, žádný profesionál neřekne orchestřiště) doznívala předehra a cimbálová muzika na jevišti pozdvihla nástroje, s posledním akordem orchestru nasadila stylizovaný čardášový rytmus a opona šla nahoru. První jednání muzikálu otevřely tři sólistky, pýcha a uspokojení paní profesorky Šimkové. Utvořily kroužek a v záklonu se otáčely kolem hrdinného tenora Jáno Zbána představujícího Ferdiše, hrdinu Větrů na horách. Těly a vlajícími chitóny měly dívky tvořit okvětní lístky kolem pestíku mohutného Zbánova těla, režisérovi záleželo hlavně na tom, aby jim pěkně vlály rozpuštěné vlasy a sukně a pro zdokonalení efektu na ně pouštěli prudký proud vzduchu z větráku ukrytého v otvoru podlahy. Živý kvítek měl symbolizovat čistotu a bezúkladnost mládí, rozevlátého a hravého věku lidské nevinnosti. Dívky kroužily kolem Ferdiše po dobu šedesáti osmi taktů a na trylek klarinetisty se rozprchly do stran. Ferdiš se ocitl sám uprostřed scény a nasadil furiantskou vstupní árii dlouhým ej na vysokém cé:
 
-Ej frajerky bílé  
+_Ej frajerky bílé  
 co že jste mně milé  
 kterú z vás si vybrat mám  
-nevím sám
+nevím sám_
 
 Cílem divadla Pokrok byla nejen snaha připravit dorost pro tradiční profesionální divadla, a tak je omlazovat a ozdravovat, ale vychovávat i prostého diváka, tříbit a zjemňovat jeho vkus mnohde bohužel ještě narušený pozůstatky dekadentního měšťáckého umění a jazzu. Pro tento účel visel též nad jevištěm, vysoko u stropu, veliký nápis NEBOJTE SE UMĚNÍ, povzbuzující i nejprostší a nejskromnější spotřebitele nové a důsledně ozdravované kultury. Autorem sloganu byl ředitel divadla Kostrozhryz; starý a osvědčený příslušník předválečné proletářské avantgardy. Kromě funkce pedagogické mělo divadlo také funkci experimentální scény a muzikál Větry na horách experimentálně spojoval klasické a folkloristické prvky naší národní kulturní tradice. Větry na horách však bohužel byl (ach, bohužel i zde, v tomto mladém a nezkaženém prostředí) titul jako stvořený pro parafráze a pitvoření, a stejně tak (ach, bohužel) i samo jméno divadla Pokrok. Hudebníci, známí smyslem pro humor hrubšího ražení, sestavili pro název muzikálu dlouhý seznam variant a tajně chystali vylosování nejlepší. (Leč takovýmto šprýmům netřeba věnovat příliš mnoho pozornosti, leda později a co možná stručně.) Oč vlastně jde v muzikálu, na jehož titul se pořádá soutěž?
 
@@ -163,10 +169,10 @@ Petr seděl v režisérské loži a uvažoval. U stropu nad staženou oponou 
 
 Bylo po přestávce, opona se zvedla a na scénu vběhla Helga v roli Marušky, neposedné a usměvavé. Přitančila do Ferdišovy náruče a hrdinný tenor Zbán rozezvučel sál:
 
-Ej co mi do Aničky  
+_Ej co mi do Aničky  
 Ej co mi do Pepičky  
 keď mám svoju Marušenku  
-třepotavú holuběnku
+třepotavú holuběnku_
 
 Třepotala sněžnými pažemi jako by plaše odlétala a zase se vracela, Ferdiš se snažil půvabného motýlka polapit, motýlek unikal, popolétal, poposedával, až složil křidélka a dal se znovu obejmout.
 
@@ -260,10 +266,10 @@ Dotočily se, a když hudba sjela do vyčkávacího pianissima a nad jeviště
 
 Trubky nasadily pozdě, s kiksem, a Karla zachrochtala. Jáno Zbán se vyšplhal na vysoké cé a držel ho přes třicet taktů, už mu počal docházet dech, konečně někdo skřípl na housle, přidal se cimbál a zpěvák mohl pokračovat:
 
-Ej frajerky bílé  
+_Ej frajerky bílé  
 co že ste mi milé  
 kterú z vás si vybrat mám  
-nevím sám
+nevím sám_
 
 Karla se nutila myslet na smutné věci, jak jí umřel dědeček, jak všichni plakali, jak je to brašně smutné, když se pouští rakev do hrobu. Malinko to pomohlo, přetančily svou část a Karle se podařilo udržet si na tváři neměnný úsměv. Zvolna, zvolna, rittenuto á dva á tři, hlavu vpravo a nedívat se do díry, zvolna, zvolna, do ztracena…
 
