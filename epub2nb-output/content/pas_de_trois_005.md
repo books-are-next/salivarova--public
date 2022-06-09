@@ -2,5 +2,5 @@
 contentType: prose
 ---
 
-Milanu Kunderovi  
-mému učiteli
+_Milanu Kunderovi  
+mému učiteli_
