@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 >   
 
 >   
@@ -9,6 +11,10 @@ contentType: prose
 >   
 
 > Bože, jak tanečnice milují sladkosti!
+
+</section>
+
+<section>
 
 Ester vběhla zadním vchodem do divadla a brala schody po dvou. Ještě měla tři minuty čas shodit kabát a šaty, opatrně stáhnout drahé silonky a vklouznout do trikotu, který včera ve spěchu hodila pod židli. Ještě byl zpocený a Ester se ušklíbla. Ale co, stejně nás zase bude honit do umdlení, večer si ho přeperu. Dnes neměla rande, nebude muset pospíchat, aby vyběhla z divadla první, aby unikla zvědavým očím a naskočila do Petrovy modré oktávie za rohem. Dnes byl opět trénink od půl deváté, utíkala chodbou a po cestě si spínala rozevláté vlasy do drdůlku na temeni. Holky už stály u tyče a rozcvičovaly se. Přiřadila se k nim, zadýchaná, podařilo se jí proklouznout nepozorovaně, paní profesorka Šimková se právě domlouvala s korepetitorem a stála zády ke dveřím. Rychle začala cvičit, propínala nárty, protahovala zádové svaly, ukláněla se hloub a hloub do stran a tělo měla bolavé. Sálem projel hlas, ječivý a přísný a nastala čtyřhodinová drezúra s krátkou pauzou na napití, na relaxaci namáhaných svalů, cigaretu anebo trysk na záchod.
 
@@ -34,14 +40,26 @@ A znovu raz a dva a tři a vlevo, raz a dva a tři a vpravo, nemohla se d
 
 Stála s Helgou a s Karlou na scéně za staženou oponou, dole v díře (ano, v díře, žádný profesionál neřekne orchestřiště) doznívala předehra a cimbálová muzika na jevišti pozdvihla nástroje, s posledním akordem orchestru nasadila stylizovaný čardášový rytmus a opona šla nahoru. První jednání muzikálu otevřely tři sólistky, pýcha a uspokojení paní profesorky Šimkové. Utvořily kroužek a v záklonu se otáčely kolem hrdinného tenora Jáno Zbána představujícího Ferdiše, hrdinu Větrů na horách. Těly a vlajícími chitóny měly dívky tvořit okvětní lístky kolem pestíku mohutného Zbánova těla, režisérovi záleželo hlavně na tom, aby jim pěkně vlály rozpuštěné vlasy a sukně a pro zdokonalení efektu na ně pouštěli prudký proud vzduchu z větráku ukrytého v otvoru podlahy. Živý kvítek měl symbolizovat čistotu a bezúkladnost mládí, rozevlátého a hravého věku lidské nevinnosti. Dívky kroužily kolem Ferdiše po dobu šedesáti osmi taktů a na trylek klarinetisty se rozprchly do stran. Ferdiš se ocitl sám uprostřed scény a nasadil furiantskou vstupní árii dlouhým ej na vysokém cé:
 
+</section>
+
+<section>
+
 _Ej frajerky bílé  
 co že jste mně milé  
 kterú z vás si vybrat mám  
 nevím sám_
 
+</section>
+
+<section>
+
 Cílem divadla Pokrok byla nejen snaha připravit dorost pro tradiční profesionální divadla, a tak je omlazovat a ozdravovat, ale vychovávat i prostého diváka, tříbit a zjemňovat jeho vkus mnohde bohužel ještě narušený pozůstatky dekadentního měšťáckého umění a jazzu. Pro tento účel visel též nad jevištěm, vysoko u stropu, veliký nápis NEBOJTE SE UMĚNÍ, povzbuzující i nejprostší a nejskromnější spotřebitele nové a důsledně ozdravované kultury. Autorem sloganu byl ředitel divadla Kostrozhryz; starý a osvědčený příslušník předválečné proletářské avantgardy. Kromě funkce pedagogické mělo divadlo také funkci experimentální scény a muzikál Větry na horách experimentálně spojoval klasické a folkloristické prvky naší národní kulturní tradice. Větry na horách však bohužel byl (ach, bohužel i zde, v tomto mladém a nezkaženém prostředí) titul jako stvořený pro parafráze a pitvoření, a stejně tak (ach, bohužel) i samo jméno divadla Pokrok. Hudebníci, známí smyslem pro humor hrubšího ražení, sestavili pro název muzikálu dlouhý seznam variant a tajně chystali vylosování nejlepší. (Leč takovýmto šprýmům netřeba věnovat příliš mnoho pozornosti, leda později a co možná stručně.) Oč vlastně jde v muzikálu, na jehož titul se pořádá soutěž?
 
 Ferdiš je dobrosrdečný, avšak trochu nemotorný traktorista. Miluje všechny tři dívky a nemůže se rozhodnout, kterou by si vybral. Dívky ho pokoušejí, škádlí, žádná to s ním nemyslí vážně. Konečně se Ferdiš rozhodne, vystrojí svatbu a k obřadu se dostaví všechny tři ustrojené k nerozeznání. Ferdiš je zmaten, zoufá si, neví, která je která, dívky na něj tím více dorážejí, pohrávají si s ním, vysmívají se mu, dokud Ferdiš zahanbeně neprchne ze svatební síně. Pak se teprve rozvíří pravá vesnická veselice, přijme do svého víru i ponaučeného nemotoru a roztančenou scénu pomalu přikrývá opona. Folkloristické prvky dodávaly muzikálu lidovosti, klasické pak dosvědčovaly, jak si vážíme kulturního odkazu našich předků, z něhož umíme čerpat zdravé a správné tradice a aplikovat je na náš současný život. V tanečním projevu se též oba prvky umně prohnaly, tanečnice školené v klasickém baletu tančily čardáš na špičkách, zatímco Ferdiše obuli do dřeváků a narežírovali mu nerytmické dupání, aby tak byla podtržena jeho dobrotivá nemotornost. Sbor vesničanů v pozadí tančil skupinový tanec v choreografii čerpající z české besedy.
+
+</section>
+
+<section>
 
 Ester si zkoušela, jak jí jednou půjde nový podpis, Ester Pinkasová, čmárala prstem po skle, Petr a Ester, neuvěřitelně krásná kombinace jmen, zněla jí téměř vznešeně jako Pyramus a Thysbé, musí být trpělivá, Petr nemá šťastné manželství (ne, nemá, jakkoli to zní banálně a ošuměle), jeho manželka Milena mu prostě nerozumí. „Žijeme vedle sebe, ale jsme si cizí,“ říkával a pomýšlel na rozvod. Není však vhodná doba, Petr má kariéru teprve před sebou, neurovnané rodinné poměry by ji mohly snadno ohrozit, musí se před soudruhy na ministerstvu přetvařovat (jistěže jen v tomto smyslu) a ještě nějaký čas setrvat v roli vyrovnaného a spořádaného představitele naší společnosti.
 
@@ -105,6 +123,10 @@ Pošeptala mu variantu titulu Větry na horách a Nesvadba padl na židli.
 
 „Jé,“ vyjekla Karla, „já mám inspiraci,“ a vyprskla ji Nesvadbovi do ucha. Nesvadba se popadl za břicho a vyletěl ze dveří. Za chvíli se z šatny muzikantů ozval řev a Ester se zamračila.
 
+</section>
+
+<section>
+
 Karla byla ospalá a měla kocovinu. Včera vypila příliš mnoho vína a přejedla se sladkostí. Ale nemůže prostě za to. Vidí-li dorty, je k ne­udržení. Večer byl bezvadný. Zavezl ji na Konopiště, večeřeli v zámecké restauraci (beef Stroganoff a čtyři láhve Mommessinu a mísu šlehačkových zákusků, které snědla všechny sama, tanečnice jsou úplně nemocné na sladkosti), v hotelovém křídle zámku rezervoval pokoj, nikdo se nic neptal, vedoucí hotelu se jenom diskrétně usmíval.
 
 „Karličko, vytoč víc nohy, musíš to cítit až do pat. Musíš mít pocit, jako by ses v dolní části trupu ce-lá-pěk-ně-roz-ví-ra-la.“ Profesorka předvedla cvik. „Znovu Karličko, víc, víc, ráz dolů, zvolna, cítíš to, cítíš?“
@@ -165,20 +187,44 @@ Dívky zmlkly a zatvářily se nevinně.
 
 Znovu a znovu a znovu, Karle se chtělo zoufale spát, nejraději by se svalila na žíněnky a dala si dvacet.
 
+</section>
+
+<section>
+
 Petr seděl v režisérské loži a uvažoval. U stropu nad staženou oponou se křižovaly boďáky (ano, boďáky, žádný profesionál by neřekl bodové reflektory) a osvětlovaly ředitelovo geniální heslo vyzývající dělníky, rolníky a pracující inteligenci, aby se nebáli umění. Umění milovat, pomyslel si a zacukalo mu v koutcích. Jak to napsal ten Ovádus nebo jak se jmenoval. Ano, umění milovat, neboť to je jedno z nejkrásnějších.
 
+</section>
+
+<section>
+
 Bylo po přestávce, opona se zvedla a na scénu vběhla Helga v roli Marušky, neposedné a usměvavé. Přitančila do Ferdišovy náruče a hrdinný tenor Zbán rozezvučel sál:
+
+</section>
+
+<section>
 
 _Ej co mi do Aničky  
 Ej co mi do Pepičky  
 keď mám svoju Marušenku  
 třepotavú holuběnku_
 
+</section>
+
+<section>
+
 Třepotala sněžnými pažemi jako by plaše odlétala a zase se vracela, Ferdiš se snažil půvabného motýlka polapit, motýlek unikal, popolétal, poposedával, až složil křidélka a dal se znovu obejmout.
 
 Následovala lyrická árie, Jáno Zbán se s citem úměrným své postavě pokládal na dlouhé noty a v sále tekly slzy. V tomto okamžiku stával režisér Váša vždycky ve výkrytu a zahalen černým sametem nahlížel do hlediště a počítal, kolik diváků pláče, jaké je jejich pohlaví a věkový průměr. Dával si tak dohromady statistiku, podle níž chtěl dále zlepšovat svou estetickou koncepci. Během árie poletovala třepotavá holuběnka dál lehounkými skoky a jemným závojem pohybů pod­trhávala lyričnost Zbánova hlasu. A potom malý, podařený klimax, zlom, jehož si režisér Váša obzvlášť cenil (byl to jeho nápad), nečekaný skok z lyriky do komiky, objevné prostřídání žánrů. Holuběnka tajně, za zády milostně zaníceného Ferdiše přivolá své dvě kamarádky, poradí se a roztančí kolem hrdiny divoké kolo, kličkují a unikají, škádlí ho, hrdina se snaží polapit alespoň jednu z nich, nemotorně tápe rukama a klape dřeváky, dívky mu vyklouzávají z náruče, otáčí se rychleji a rychleji a na stop time, kdy se přetrhne proud až do nemožnosti zrychlené hudby, přetrhnou se Ferdišovi kšandy a on najednou stojí jako kůl v plotě jen v puntíkatých spodkách s kalhotami kolem kotníků. Pláč v sále se obratem změní v úlevný smích (i teď režisér Váša počítá, kolik lidí se směje hlasitě, kolik se jen usmívá, jaké je jejich pohlaví a věkový průměr), který narůstá souběžně s Ferdišovým úsilím domotat se v zajetí spadlé části oděvu někam do ústraní. Trojice dívek se obejme kolem pasu a uzavře scénu veselým _pas de trois_ na rampě.
 
+</section>
+
+<section>
+
 Helga stačila mrknout do lože a poslat úsměv. Je sladká, pomyslel si Petr. Všechny tři jsou sladké a hebké, objímají se, hubičkují a netuší. V tom je to právě vzrušující: že netuší. Že jenom on sám jediný ví. Kolikrát ho napadlo, jak je tato složitá hra vlastně nebezpečná, mohly by se jedna druhé svěřit, odhalit ho jako lháře (prokrista!), jako sukničkáře (proboha!), ale je si téměř jist, že se nesvěří, že ho neodhalí. Měl je rád všechny tři, každá měla něco z ideálu ženy, o níž sníval, kaž­dá byla jinak přitažlivá, každá zamilovaná svým způsobem. „Musíš mi být věrná,“ kladl jim často na srdce, nemohl snést pomyšlení, že by se o některou měl s někým dělit, a byl přesvědčen, že mu věrné jsou a že si navzájem nic nepoví. Ženy nejsou, jako bývají (někteří) muži, nevychloubají se úspěchy v klínech svých protějšků. Pro ženu je intimní vztah tajemstvím. Alespoň v první fázi. Miloval ty první fáze, napětí a mnohoslibnost prvních schůzek a tajných výletů za Prahu, nikdy nepřivedl dvě různé ženy na totéž místo. Měl-li nějakou opravdu rytířskou vlastnost, pak to byla diskrétnost a ohleduplnost vůči vlastní ženě Mileně. Nikdo nemá potuchy, jak bohatý citový život on dovede žít. Vychutnával trestný čin polygamie, jejž tak promyšleně páchal, díval se na rej svých tří souložnic a usmíval se.
+
+</section>
+
+<section>
 
 Byl čtvrtek, Helžin den. Odvezl ji modrou oktávií do Jílového. I tam měl známé, rezervace se snadno zařídí, je-li člověk čtvrtým náměstkem ministra kultury a potřebuje se někde ukrýt se svou malou přítelkyní. Mlčenlivost personálu se snadno koupí nebo poručí. Povečeřeli (kuře po provensálsku, starý ročník Coteaux du Tricastin a tucet sněhových koulí obalených v čokoládě a oříškové strouhance, ó, tanečnice mají rády sladkosti), pokoj byl příjemně osvětlen, lože pohodlné a Helga voněla vůní Chat Noir, kterou jí daroval. (Ne že by ho ta vůně nějak zvlášť vzrušovala, měl jí někdy plný nos, Milena však jinou nepoužívala a vynikala dobrým čichem.)
 
@@ -228,6 +274,10 @@ Helga třepotala znavenými pažemi, obíhala kolem paní profesorky znovu a zn
 
 Dřela je zas až do jedné, znovu a znovu a znovu.
 
+</section>
+
+<section>
+
 Soutěž byla v posledním kole. Odehrávala se potají, pouze mezi zasvěcenými, u dlouhého stolu vedle baru, kde seděla parta muzikantů, pan Vejmelka a Helga s Karlou, bez Ester, Ester o takovou zábavu nestála. Seděla sama opřená o barový pult a přemýšlela.
 
 „Co to bude? Arakóla?“ pan Vejmelka přerušil tlumené rokování a přišel jí podat láhev limonády. „Vobsluž se sama, já musim schůzovat.“
@@ -250,6 +300,10 @@ Celí oni. Vrba, Nesvadba, Karlička, a Helga za ní jak ocásek. Znechuceně d
 
 „Větry na horách aneb Prdy, na který sme hrdý,“ zastihlo ji ještě ve dveřích slavnostní vyhlášení první ceny. Karla, pochopitelně, a Ester se proti své vůli konečně usmála. Alespoň je to přesné, i když neslušné.
 
+</section>
+
+<section>
+
 „Za deset minut nástup na scénu,“ zachraptěl amplion.
 
 Helga vyskočila.
@@ -266,10 +320,18 @@ Dotočily se, a když hudba sjela do vyčkávacího pianissima a nad jeviště
 
 Trubky nasadily pozdě, s kiksem, a Karla zachrochtala. Jáno Zbán se vyšplhal na vysoké cé a držel ho přes třicet taktů, už mu počal docházet dech, konečně někdo skřípl na housle, přidal se cimbál a zpěvák mohl pokračovat:
 
+</section>
+
+<section>
+
 _Ej frajerky bílé  
 co že ste mi milé  
 kterú z vás si vybrat mám  
 nevím sám_
+
+</section>
+
+<section>
 
 Karla se nutila myslet na smutné věci, jak jí umřel dědeček, jak všichni plakali, jak je to brašně smutné, když se pouští rakev do hrobu. Malinko to pomohlo, přetančily svou část a Karle se podařilo udržet si na tváři neměnný úsměv. Zvolna, zvolna, rittenuto á dva á tři, hlavu vpravo a nedívat se do díry, zvolna, zvolna, do ztracena…
 
@@ -281,6 +343,10 @@ Karla se nutila myslet na smutné věci, jak jí umřel dědeček, jak všichni 
 
 Po celou pauzu nevyšla na chodbu mezi muzikanty, jistě vymýšlejí další legrace, aby je na scéně mučili. Jestli se Petr dívá, asi se diví. Ne, bude se ovládat, nesmí zkazit představení. Převlékla si mokrý trikot a docela se uklidnila.
 
+</section>
+
+<section>
+
 Druhá půle se dařila, Helga třepotala křidélky, dokonalý motýlek, i rej kolem zmateného Jána Zbána (netěšil se příliš velké politické důvěře, takže o soutěži nevěděl) utančily bez nehody, rychleji, rychleji, rej chitonů a vlasů, rychleji, stop time, přetrhla se muzika, přetrhly se kšandy a do luftpauzy zabučel hlas z díry:
 
 „Ruprt.“
@@ -289,11 +355,19 @@ Konec. Exploze, všichni se smáli Ferdišovu zmatku, smála se i Ester, i kdy
 
 Z toho bude řízení, důtka, možná i výpověď. Ale Karla si nemohla pomoci. Záchvat se už nedal ovládnout. Čím víc myslela na následky, tím víc se smála, pomoc, zavolejte doktora, břicho ji bolelo, slzy smíchu oslepily, nešlo s tím nic dělat, ačkoliv si snažila představit vlastní pohřeb.
 
+</section>
+
+<section>
+
 Ten večer dopadl muzikál Větry na horách strašlivě. Diváci se divili (jak známo, divák je od diviti se, nikoli od dívati se), cože to bylo za komickou operetu. Větry na horách. Cikánský baron je stejně lepší.
 
 Režisér Váša zuřil, zatínal zuby a hotovil se dát okamžitě výpověď celému divadlu.
 
 Na příští den svolal schůzi souboru. Musí se zjistit, kdo je původcem toho hanebného zesměšňování, a provést disciplinární řízení. Esteřina předpověď se začínala plnit.
+
+</section>
+
+<section>
 
 „Půjdeme tančit?“ zeptal se a pohleděl jí do snivých očí. Byla krásná, dobře oblečená (vážil si dobře oblečených žen) a milovala ho.
 
@@ -318,6 +392,10 @@ Polil ho hřejivý pocit. Skutečně, člověk má druhé činit šťastnými, m
 „Vím,“ pravil temným hlasem. „Vím.“
 
 Miloval tyhle hovory, nikdy mu nemohly zevšednět, miloval ty okamžiky vyznání. V takových chvílích miloval vášnivě i sám sebe.
+
+</section>
+
+<section>
 
 Schůze byla ponurá a dlouhá. Režisér Váša už trochu vychladl, mluvil klidným hlasem, ale přísně a nesmlouvavě.
 
@@ -375,7 +453,15 @@ Tanečnicím při tréninku pak s úsměvem prozradila jednu ze svých mnoha zk
 
 „Pamatujte si, děvčata, pravý profesionál je skromný a nedá se vyvést z míry za žádných okolností. Žádné nadýmání, i kdybychom na ně měli být sebehrdější, vás nesmí snížit na úroveň amatérů.“
 
+</section>
+
+<section>
+
 Na zkažené představení se brzy zapomnělo. Větry na horách obdržely i tak státní cenu (za objevnost a ideovost), kolektiv divadla dostal navíc řád práce (za vynikající interpretaci objevnosti a ideovosti) a režisér Váša se ve svých dvaatřiceti letech konečně dočkal uznání za celoživotní snahu ve formě titulu Zasloužilý umělec, což mu dodalo chuti pokračovat v experimentování ještě lépe, radostněji a vynalézavěji. Nosil už v hlavě nápad na další muzikál, tentokrát z prostředí velkoměsta, hodlal v něm postavit do protikladu přežívající nešvary (žel, pohlavní promiskuita existuje i v továrnách a úřadech. Těch nevěr! Těch pitek! Kdosi mu vyprávěl o šestnáctileté jeřábnici, která si vysoko u stropu tovární haly, v kabině jeřábu, zařídila dokonalou živnost. Samozřejmě, tyto jevy nejsou pro naši společnost typické, přesto však je nutno odvážně je tepat) a to nové, co je dnes cítit na každém kroku. Měl už dokonce promyšlenu závěrečnou scénu, zobrazí v ní prvomájový průvod, roztančí celou scénu s vlajícími prapory (bude potřeba objednat alespoň čtyři silné větráky navíc), příběh bude tentokrát opravdu milostný, Ján Zbán se bude výborně hodit na roli mladého slévače, do role plánovačky Věry pravděpodobně obsadí Karlu, je taková prostá a lidová. Na titulu si dá záležet, něco, co by asociovalo ono škádlivé rčení Ať se mládí vydovádí, ale jinak, musí dbát, aby název ani v nejmenším neinspiroval k zlomyslnému zesměšňování jako Větry na horách. Kdyby byl tušil, k jak nejapnému žertování název soubor vyprovokuje, byl by se snažil přijít na jiný titul. I když Větry na horách se mu stále zamlouvalo, vyjadřovalo to takovou jako rozevlátost a volnost, a přitom jakoby názvuk nebezpečí, stačí málo a nevinné rozevláté mládí podlehne přežitkům minulosti. Ne, přes hořkost, již od posledního skandálu stále pociťoval, pociťoval současně na své Větry na horách stále vzrůstající hrdost.
+
+</section>
+
+<section>
 
 Ministerstvo kultury uspořádalo pro laureáty cen gigantickou recepci v sále Valdštejnského paláce, ministr přednesl krátký (asi hodinový) projev, v němž podtrhl hrdost státních činitelů na naše mladé talenty, na jejich odvahu a rozhodnost, s jakou se chopili budovatelského úsilí v oblasti kultury.
 
@@ -407,6 +493,10 @@ Petr k nim přistoupil. Vzrušovala ho skutečnost, že je tu má všechny čty
 
 Karla odběhla ze sálu. V předpokoji toalet pro dámy pracovala soudružka v bílém plášti. Podala jí čistý froťák a miniaturní mýdlo. V křesílku u zrcadla seděla paní Pinkasová a česala se. Poslala milý úsměv Karlinu obrazu v zrcadle a přepudrovala si nos. Docela hezká, pomyslela si Karla, všechno je tu hezký. I ten hajzl. Čistej, s kobercema a voní. Voní. Á sakra. Přešla kolem paní Pinkasové, vrátila jí úsměv a nasála vzduch. Chat Noir, blesklo jí hlavou, nasála znovu a v hlavě se jí rozsvítilo naplno. Tak takhle to je! Oblíbený parfém. Tůdle! Petr nechce přinášet domů vůně, které by se třískaly s parfémem manželky Mileny. Chytrej chlapec! Rozvrat manželství na základě totálního neporozumění patrně dosud nenastal. Kdyby tahle holka žila v rozvratu, sotva by se teď na ni smála jak buclatej andělíček. Leda že je nalíznutá, ale to se obvykle spíš brečí, je-li někdo v rozvratu. Petříček je kapánek potvora. Kapánek moc asi. A z prudkého osvícení v hlavě se zrodil nápad.
 
+</section>
+
+<section>
+
 Franta Vrba igeliťák zřejmě sehnal. Pod sakem měl bouli a v ní dvanáct párků a čtyři taliány.
 
 „Co bych si nevzal svůj drobeček ze společnýho stolu blahobytu.“
@@ -424,6 +514,10 @@ Bylo před půlnocí. Váša se napil a posedla ho kuráž ještě větší ne�
 „Je to jako těhotenství, soudruhu ministře. Jako bych ten plod v sobě nosil a opatroval, dokud řádně neuzraje, a pak přijde porod, tvrdá práce, pot a krev. A možná že se rovnou zrodí dvojčata. Mám ještě jeden nápad: zkombinovat město a vesnici v jednom.“
 
 Ministr zívl a vstal. Sál se už skoro vyprázdnil. Na talíři v bufetu seděl smutně poslední kousek oříškové rolády. Všechno bylo snědeno anebo ukryto v igeliťácích pod saky muzikantů. Karle se kousku zželelo. Ležel tam tak sám, chudinka. Nacpala si ho do pusy a sešla po měkkém koberci širokého schodiště jako dáma.
+
+</section>
+
+<section>
 
 Soubor se podle neustále opakovaných nabádání režiséra Váši soustředil na představení. Část v šatnách a v zákulisí (jenom ti ovšem, kteří to brali vážně), jediný Ján Zbán se soustředil přímo na scéně, kde byla velká frekvence kulisáků a osvětlovačů. Učil se tak uzavírat okruh veřejné samoty podle Stanislavského. Větší část souboru se soustředila v Kajutě a naslouchala historkám pana Vejmelky, jež však s lidovostí muzikálu Větry na horách nesouvisely. Přitom popíjeli neškodné nápoje, protože pan Vejmelka dostal přísný zákaz nalévat alkohol, dokud neodejde poslední divák z hlediště.
 
@@ -477,6 +571,10 @@ Pan Vejmelka vychutnal napětí, o němž se domníval, že se zmocnilo posluch
 
 „Tak děte, já vám to pak dopovim. A dneska žádný vylomeniny, jednou sme laureáti, tak do tý srágory dejte trochu noblesy.“
 
+</section>
+
+<section>
+
 Karla bloumala po Václavském náměstí a přemýšlela, co si dřív koupit za poslední výplatu. U výkladních skříní Jasu byl nával, lidi se strkali, aby zahlédli poslední výkřik obuvnické módy, gondoly ve všech barvách na každou nohu. Ušklíbla se a pokročila k dalšímu výkladu, který jako by ji magicky přitahoval. Patřil nikoli obchodu s obuví, dříve Baťa, nýbrž obchodu s dorty, dříve Štěrba. Zákusky, koláčky a jahodové košíčky zvítězily. Posílala si je po patře do žaludku, zneškodňovala jeden po druhém, až už nemohla. Ale musela. A při té malé cukrové orgii si vzpomněla na svůj nápad z recepce. Zaplatila za sladkosti v hodnotě nových bot a vykročila směrem k Sovětské knize, jež kromě knih sovětských autorů nabízela spřáteleným spotřebitelům samotřetí až samodesáté panenky z pomalovaného dřeva, omalovánky se strašlivými kresbami předních sovětských umělců, ušanky a kosmetiku.
 
 Zakoupila lahvičku zaručeně trvanlivého smradu zvaného Duchy Moskvy.
@@ -529,6 +627,10 @@ Otevřel všechna okna a měl zlost. Nemohl však udělat scénu kvůli rozlit�
 
 Jistě to neudělala schválně. Mileně řekne, že vezl nějaké sovětské soudružky, anebo lépe soudruhy, je známo, že i důstojníci používají Duchy Moskvy, nebo jak se ten smrad nazývá. Snad brzy vyvětrá. Rozjel se rychleji, aby vzduch více vířil. Pak zastavil před parfumérií a koupil tu největší láhev Chat Noir. Polil sedadlo i sebe a vešel do brány ministerstva.
 
+</section>
+
+<section>
+
 Večer se šel podívat do divadla. V Kajutě byl rámus a řehot, námořník Vejmelka citoval z nějaké knihy a chlubil se.
 
 „Tohle má taky vode mně. Tu stóry vo tom záchodě sem mu vyprávěl já. ‚Vyběhla jak Madlenka z fáry‘, to je přece, jak sem mu to přesně povidal.“ Předčítal ze Soudniček a v jednom kuse se dovolával spoluautorství.
@@ -561,7 +663,15 @@ Karla se rozběhla, Petr stál ve dveřích, proplula dlouhými, lehkými skoky 
 
 Bylo mu nesmírně dobře.
 
+</section>
+
+<section>
+
 Karla seděla v šatně sama, Helga odpočívala po tréninku dole na žíněnkách. Ta holka je vždycky v pátek ráno jak mátoha, myslela si Karla, to by mě zajímalo, s kým to pořád dělá takové tajnosti. Že by přece jen Nesvadba? Jede po ní už dávno, jenomže po kom on nejede, a Helga, potvora, pořád samé hihihi, jakoby nic. Proč by ale jen jednou za tejden, když se vidí v divadle denně? Přitáhla si pod nohy židli od vedlejšího stolku, ověšenou zmuchlanými částmi oděvu, něco spadlo na podlahu, Karla se líně natáhla a zvedla to. O nos jí zavadila vůně. Zamávala sukní a nasála. A opět a ještě jednou. Z tkaniny se táhla nepřekonatelná vůně, duchové Moskvy se prošli šatnou, ten zaručeně trvanlivý smrad, jejž žádný Chat Noir nikdy nemůže přetrumfnout. Odhodila sukni a na čele jí vyvstala vráska.
+
+</section>
+
+<section>
 
 Když odhopsaly závěrečný taneček a rozdaly poslední úsměvy unešenému publiku, rozběhla se Ester do šatny a vlítla pod sprchu první. Těšila se na něj dnes obzvlášť, snad jí řekne víc o tom Národním, schoulí se mu do náruče a usne v ní. Než doběhly Karla s Helgou, stačila se osprchovat a nanášela si jemnými doteky parfém Chat Noir na vymydlenou pokožku.
 
@@ -586,6 +696,10 @@ Ester se zatvářila tajemně.
 Esterka se usmívala. Nepoví, kdepak, nikomu se nesvěří, ani mamince, dokud se ten problém nevyřeší. Už to nebude trvat dlouho, řekl jí, brzy bude pověřen vyšší funkcí, stane se třetím náměstkem, ministr s ním v té věci už hovořil, dostane na starost Národní a pak sbohem divadlo Pokrok, Esterka už nebude muset hopsat odzemky na špičkách a poslouchat sprosťárny v Kajutě. Petr jí pomůže umělecky vyrůst. Miláček. Drahý miláček. Už čeká. Rychle se dooblékla, urovnala líčidla na stolku a dveře za ní zapadly. Karla si kousala nehet a zůstala dlouho sedět zamyšlená u zrcadla. Pak se zdvihla a seběhla do Kajuty.
 
 „Ruma, pane Vějmelka, dvojitýho!“
+
+</section>
+
+<section>
 
 V sobotu ráno čekala v šatně s napětím a vztekem. Jestli si ale někdo myslí, že budu bulet, tak je vedle. Polkla a hlasitě se vysmrkala.
 
@@ -651,17 +765,33 @@ Karla jen odfrkla.
 
 „Pinkas,“ ucedila opovržlivě a netušila, jak moc si tím slovem mohla ulevit, kdyby znala jeho středověký význam.
 
+</section>
+
+<section>
+
 Ten večer měl pan Vejmelka co dělat. Holky se mu v Kajutě svorně zrumovaly, zlískaly se hůř než námořníci pražské paroplavby po vítězství nad Podskaláky. Polévaly jedna druhou hořkými slzami, hubičkovaly se a slibovaly pomstu nějakému podivnému zlosynovi a sobě věrnost až do hrobu. Vejmelka vrtěl hlavou. Že by podlehly módě a daly se na lesbičanství?
 
 Zlila se, děvčátka, sežrala se jak dráteníci, takhle žádná z nich domů nemůže. Pan Vejmelka je jednu po druhé láskyplně uložil na lavice v Kajutě a něžně přikryl zbytky staré opony, kterou našel ve skladišti.
 
+</section>
+
+<section>
+
 Petr seděl v loži a díval se na představení Větrů na horách snad už po sté. Teď přijde ten okamžik. Na scéně osamí jeho tři kachňátka, svorně se drží kolem pasu a netuší. V dokonalé souhře pohybů, bez sebemenší známky nesouladu dotančí to půvabné _pas de trois_ na rampě, odběhnou a za scénou si dají hubičku. V duchu se usmál a opět a opět ho obléval blahý pocit. On je ten jediný, milovaný, hýčkaný v té trojité náruči mládí a svěžesti. Byla středa. Na Konopišti už čeká pokoj, jejich pokoj, jeho a Karliččin, a Petr se dnes obzvlášť těšil. Cítil se v dobré formě a náladu měl přímo skvělou. NEBOJTE SE UMĚNÍ, četl slogan nad jevištěm, nejraději by zvolal a vyzval všechny lidi, NEBOJTE SE UMĚNÍ MILOVAT! Ano, napsal to Ovád, topič mu to potvrdil (řekl, samozřejmě, soudruhu náměstku, Umění milovat napsal Ovád v dvacátém století před Kristem), člověk se nesmí bát umění milovat, musí však mít dost důvtipu a kombinačních schopností a talentu, ano, talentu, bez talentu není umění. Petr byl spokojen, jeho život se ustálil v pravidelnost, po jaké toužil. V pravidelnost slastných vzrušení a opojení.
+
+</section>
+
+<section>
 
 Karla byla dnes obzvlášť krásná. Jako by zjemněla, jako by ji divokou a nezkrotnou zjemňovala a oduševňovala láska k němu. Tak asi. Něžný cit člověka vždycky zušlechťuje. I u stolu se chovala nějak vybraněji, jedla střídmě a vína (zase pili Mommessin) usrkávala jako ptáče, kapku po kapce (měla pořád ještě kocovinu a z alkoholu se jí dělalo nanic), jen to sladké, bože, jak tanečnice milují sladkosti. Účet za dorty vysoko převýšil obvyklou normu. Ale ať. Poslala mu přes stůl další láskyplný pohled a vsunula si do úst šlehačkovou rakvičku snad třicátou. Stiskl jí ruku.
 
 „Promiň, miláčku, já hned přijdu.“
 
 Konečně. (Petr chodil na toaletu raději v restauraci. Třebaže v pokoji byla koupelna oddělená stěnou, nerad jí používal jinak než k omývání. Ten zvuk, hnusný zvonivý zvuk vysílaný do porcelánové mísy se mu v přítomnosti ženy hnusil.) Sáhla do kabelky a rozhlédla se jídelnou. Stěna boxu zakrývala výhled a poskytovala páru uvnitř maximální intimitu. Číšník přišel dolít víno a hned se vzdálil. Otevřela tubu a vysypala její obsah do čerstvě dolité sklenice.
+
+</section>
+
+<section>
 
 Ležela nahá na širokém bílém loži, přivírala oči rozkoší a hladila si žaludek naplněný šlehačkou. Byly tři v noci. Ležela tak už od chvíle, co vystoupili, a v poslední fázi vyběhli, po schodech do jejich útulného pokoje. Z koupelny k ní neustále, už hodiny, doléhal zvuk splachovacího zařízení, skřípěl vodovodní kohoutek, tekla voda a pak zas a znovu ten nádherný festival zvuků, pazvuků a názvuku produkovaných zuboženým zažívacím traktem. Ve čtyři si přetáhla peřinu přes hlavu a usnula jak špalek.
 
@@ -676,6 +806,10 @@ Po cestě do Prahy stavěli u lesa snad každých deset minut. Byl bledý a sn
 „Uvař si heřmánek a dej si na břicho teplou pukličku, to pomáhá.“
 
 Zamávala řasami a políbila ho na tvář. Díval se za ní, jak hopká směrem k divadlu, a při pohledu na její nádherné nohy ho zabolelo srdce.
+
+</section>
+
+<section>
 
 Do večera se mu udělalo lépe. Nejprve si myslel, že dnes zůstane doma, lehne si a vypije heřmánek, avšak pomyšlení na včerejší promarněnou noc a na to, jak by vysvětlil Mileně, že odpadla jeho pravidelná služební cesta, ho vytlačilo z domova. Vynahradí si dnes všecko i za včerejšek.
 
@@ -701,7 +835,15 @@ Objednal si přírodní telecí, číšník otevřel láhev a nalil na ochutná
 
 Konečně. Helga se rozhlédla po restauraci. Byla téměř prázdná, číšník stál u pódia a hovořil s muzikanty. Rychle sáhla do kabelky a vyňala tubu.
 
+</section>
+
+<section>
+
 Ležela nahá na bílé posteli, přivírala oči dosud nepoznaným blahem a po tváři jí tančil úsměv. Byly tři hodiny. Od té chvíle, co kvapem vyběhli nahoru do pokoje, naslouchala. Z koupelny přicházel zvuk splachovacího zařízení, v potrubí žbluňkalo a škrundalo, tekla voda a pak zas a znovu ten uchvacující festival zvuků, pazvuků a názvuků, jež neovladatelně produkoval zubožený zažívací trakt. Helga se otočila na bok a tvrdě usnula.
+
+</section>
+
+<section>
 
 Na cestě zpátky zastavovali u lesa každých pět minut.
 
@@ -714,6 +856,10 @@ Na cestě zpátky zastavovali u lesa každých pět minut.
 „To jsou ty pole, čerstvě pohnojený,“ zabrblal a v břiše mu zazpívalo. Trapné, trapné, myslel si. Situace vulgární jak z historek starého sprosťáka Vejmelky.
 
 Když hopkala směrem k divadlu, díval se na její uchvacující zadeček a málem se rozplakal.
+
+</section>
+
+<section>
 
 Ester vypadala překrásně. Noc jako by posouvala její průsvitnou krásu do neskutečna. Petr si blahopřál, že dokázal vstát a přijet si pro ni, cítil se mnohem lépe, byl klidný a vyrovnaný, patrně to všecko zavinilo nervové vypětí, den, kdy má být jmenován se blíží, ale teď je mu skvěle. Položila mu hlavinku na rameno, kučeravé vlásky jí voněly čistotou, celá byla voňavá a čistá a milovala ho. Objal jí pravou rukou útlá ramínka a těšil se, až dojedou na Hubertus. Strašlivě se těšil na její měkký klín a teplou bílou pokožku. Dnes ji uchopí zcela jinak, brutálně, zmocní se jí tak, jak dosud ještě neučinil. Možná jí i poraní tu bílou kůži, zaryje jí nehty do těla a pak, pak budou vedle sebe klidně ležet a on bude líbat ty krvavé stopy vášně.
 
@@ -742,6 +888,10 @@ Zvláštní děvče, pomyslel si. Pláče štěstím, pláče láskou. Přepadla
 „Půjdeme na večeři?“ zeptal se a doufal, že řekne ne. (Upřímně řečeno, finanční fondy klesly do roviny pasiv a dieta by mu koneckonců neuškodila.)
 
 „Ano,“ vzhlédla k němu prosebně. „A budeme tančit.“
+
+</section>
+
+<section>
 
 Tančili. Orchestr hrál tiše, diskrétně, měl to tu rád, nenáviděl hlučné místnosti, kde pro hudbu není slyšet vlastního slova. Tančila lehounce, jako by snad ani nechodila po zemi. Večeřeli telecí medailonky (dával pozor na dietu) a láhev Cuvé des Saint Pères (červené víno jenom prospěje), připíjeli si na šťastnou budoucnost, ale tím ji jen znovu dojal. Je citlivá jako pavučinka, láska někdy hraničí s nervovým zhroucením, bude k ní hodný a ohleduplný, ale až pak, až po tom, co ji rozdrtí a zraní do krve. Seděli v intimně osvětleném rohu pro dva.
 
@@ -794,3 +944,5 @@ Stál ve dveřích a vytřeštěně zíral do místnosti.
 V křesle pod lampou, hned vedle vchodu do koupelny seděl soudruh ministr.
 
 Měl na sobě pouze prsten a v ruce hořící cigaretu.
+
+</section>

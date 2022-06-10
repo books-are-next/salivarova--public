@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Pas de trois](https://search.mlp.cz/cz/titul/pas-de-trois/30684/#book-content) tak, jak bylo vydáno nakladatelstvím Společnost Josefa Škvoreckého v Praze v roce 1990. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -14,4 +16,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 26. 2. 2021.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>
