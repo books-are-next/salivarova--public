@@ -1,0 +1,109 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Pas de trois",
+  "author": "Zdena Salivarová",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "salivarova-pas-de-trois-dc11097",
+  "revision": "dc11097",
+  "readingOrder": [
+    "promo.html",
+    "pas_de_trois_005.html",
+    "pas_de_trois_006.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Tue Jul 26 2022 11:23:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658834589445
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "pas_de_trois_005.html",
+      "toc": []
+    },
+    {
+      "title": "Pas de trois",
+      "file": "pas_de_trois_005.html",
+      "words": 4,
+      "chars": 28,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "pas_de_trois_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pas de trois",
+      "file": "pas_de_trois_006.html",
+      "words": 12376,
+      "chars": 74938,
+      "ideas": 398,
+      "role": "chapter",
+      "order": 2,
+      "prev": "pas_de_trois_005.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 135,
+      "chars": 871,
+      "ideas": 15,
+      "role": "about",
+      "order": null,
+      "prev": "pas_de_trois_006.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 12522,
+      "chars": 75876,
+      "ideas": 419
+    },
+    "chapters": {
+      "words": 12380,
+      "chars": 74966,
+      "ideas": 400
+    }
+  }
+}
