@@ -9,7 +9,8 @@
       "modified": "2021-02-17T00:00:00.000Z",
       "edition": "beletrie",
       "publisherShort": "mkp",
-      "contentType": "prose"
+      "contentType": "prose",
+      "isbn": "978-80-274-2690-4"
     },
     "elements": {
       "title": "MLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.*\nMLP.uroven1.PARAL\nMLP.uroven2.basne\nMLP.uroven2.kapitola\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*",
@@ -96,8 +97,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "pas_de_trois_006.md",
@@ -109,8 +110,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Pas de trois"
+            "title": "Pas de trois",
+            "children": []
           },
           {
             "filename": "pas_de_trois_007.md",
@@ -240,6 +241,6 @@
       "user": "books-are-next",
       "repo": "salivarova-pas-de-trois"
     },
-    "generatedAt": 1658834499885
+    "generatedAt": 1659356424473
   }
 }

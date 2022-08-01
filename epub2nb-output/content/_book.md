@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-2690-4
 readingOrder:
   - promo.html
   - pas_de_trois_005.html
