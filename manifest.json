@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "salivarova-pas-de-trois-ade829d",
-  "revision": "ade829d",
+  "identifier": "salivarova-pas-de-trois-adb1d1b",
+  "revision": "adb1d1b",
   "readingOrder": [
     "promo.html",
     "pas_de_trois_005.html",
@@ -17,8 +17,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Aug 01 2022 12:21:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1659356503458
+    "date": "Thu Sep 29 2022 21:34:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487268889
   },
   "documents": [
     {
@@ -77,7 +77,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 139,
-      "chars": 907,
+      "chars": 908,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -97,7 +97,7 @@
   "totals": {
     "all": {
       "words": 12526,
-      "chars": 75912,
+      "chars": 75913,
       "ideas": 420
     },
     "chapters": {
