@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "salivarova-pas-de-trois-da56b98",
-  "revision": "da56b98",
+  "identifier": "salivarova-pas-de-trois-2a00cbb",
+  "revision": "2a00cbb",
   "readingOrder": [
     "promo.html",
     "pas_de_trois_005.html",
@@ -17,8 +17,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 23:03:50 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924630522
+    "date": "Fri Oct 07 2022 13:54:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150883267
   },
   "documents": [
     {
